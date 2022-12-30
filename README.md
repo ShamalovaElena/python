@@ -1,2 +1,1 @@
-# project
-ferst project
+Основы языка Python
